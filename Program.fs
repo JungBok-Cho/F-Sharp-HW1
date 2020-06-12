@@ -1,5 +1,5 @@
 ﻿(* JungBok Cho
-    F# Assignment 1
+   F# Assignment 1
 *)
 
 open System
