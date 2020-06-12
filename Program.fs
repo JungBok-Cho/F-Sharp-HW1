@@ -1,11 +1,5 @@
-﻿(* CPSC 3400-01
-   JungBok Cho
-   F# Assignment 1
-
-   Originality of Code: 
-   I composed this code I wrote based on my understanding of how the features of 
-   the language I am using can be used to implement the algorithm I have chosen 
-   to solve the problem I am addressing.
+﻿(* JungBok Cho
+    F# Assignment 1
 *)
 
 open System
